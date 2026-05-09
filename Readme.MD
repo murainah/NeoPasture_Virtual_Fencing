@@ -1,4 +1,7 @@
-# ![NeoPasture Logo](static/assets/Images/logo.jpeg) NeoPasture — Virtual Fencing System
+<p>
+  <img src="static/assets/Images/logo.jpeg" width="24" height="24" style="vertical-align: middle;" />
+  <strong>NeoPasture — Virtual Fencing System</strong>
+</p>
 
 > ⚠️ **This is a prototype system developed for NeoPasture.**
 > It is intended for demonstration, research, and development purposes only and does not represent a production-ready deployment.
